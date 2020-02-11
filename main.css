@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*This is to give the div mainWrapper a bacground and size*/
+#mainWrapper{
+	width:1000px;
+	height: 100%;
+	background-color: lightblue;
+	margin: 0 auto;
+	    }
+
+/*This is so that the padding and border added later dont't add to my overall box size*/
+*{
+	box-sizing: border-box;
+}
+
+header{
+	width: 1000;
+	height: 50px;
+	background-color: #FAFAD2;
+	margin: 5px 0px 5px 0px;
+	padding: 0px;
+	border-bottom-style: ridge;
+	text-align: center;
+    }
+
+
+nav{
+	width: 1000;
+	height: 40px;
+	background-color: darkorange;
+	margin: 0px;
+	padding: 2px;
+	border-style: double;
+	text-align: center;
+}
+
+ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+li{
+	display: block;
+	/*width: 60px;*/
+}
+
+
+
+
+
+
+
+
