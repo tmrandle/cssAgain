@@ -31,7 +31,7 @@ nav{
 	height: 65px;
 	background-color: darkorange;
 	margin: 0px;
-	padding: 10px 350px 10px 450px;
+	padding: 10px 350px 10px 420px;
 	border-style: double;
 	/*text-align: center;*/
 	font-family: Arial, Helvetica, sans-serif;
@@ -46,7 +46,7 @@ ul{
 li{
 	/*float: left;*/
 	display: inline-block;
-	width: 100px;
+	width: 120px;
 	text-align: center;
   }
 
@@ -54,7 +54,7 @@ li{
 	width: 700px ;
 	height: 295px;
 	background-color: lavenderblush;
-	margin: 10px 20px 10px 20px;
+	margin: 20px 10px 10px 20px;
 	padding: 10px 10px 10px 10px;
 	float: left;
 	font-family: Arial, Helvetica, sans-serif;
@@ -63,12 +63,13 @@ li{
 
 
 #otherPages{
-	width: 410px;
+	width: 420px;
 	height: 295px;
 	background-color:lavenderblush;
-	margin: 10px 20px 10px 20px;
+	margin: 20px 20px 10px 10px;
 	padding: 10px 10px 10px 10px;
 	float: right;
+	text-align: center;
 	}
 
 .otherPages2{
@@ -87,7 +88,7 @@ li{
 .foods{
 	height: 375px;
 	width: 380px;
-	margin: 10px 10px 10px 10px;
+	margin: 10px 10px 20px 10px;
 	padding: 10px 10px 10px 10px;
 	background-color: lavenderblush;
 	font-family: Arial, Helvetica, sans-serif;
@@ -98,7 +99,7 @@ li{
 #additionalInfo{
 	height: 375px;
 	width: 380px;
-	margin: 10px 10px 10px 10px;
+	margin: 10px 10px 20px 10px;
 	padding: 10px 10px 10px 10px;
 	background-color: lavenderblush;
 	font-family: Arial, Helvetica, sans-serif;
@@ -106,17 +107,22 @@ li{
 	float: left;
 }
 
+h4{
+	color: darkblue;
+}
+
 #download{
 	height: 120px;
 	width: 1180px;
-	margin: 10px 10px 10px 10px;
+	margin: 20px 10px 10px 10px;
 	padding: 5px 5px 5px 5px;
 	background-color: lavenderblush;
 	clear: both;
 	font-family: Arial, Helvetica, sans-serif;
+	color: red;
 	line-height: .8;
 	text-align: center;
-	text-color: darkred;
+	
 }
 
 #menu2{
