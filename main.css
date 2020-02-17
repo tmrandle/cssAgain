@@ -53,7 +53,7 @@ li{
 #mainFood{
 	width: 710px ;
 	height: 295px;
-	background-color: lavenderblush;
+	background-color: antiquewhite;
 	margin: 20px 10px 10px 20px;
 	padding: 10px 10px 10px 10px;
 	float: left;
@@ -65,7 +65,7 @@ li{
 #otherPages{
 	width: 425px;
 	height: 295px;
-	background-color:lavenderblush;
+	background-color: antiquewhite;
 	margin: 20px 20px 10px 10px;
 	padding: 10px 10px 10px 10px;
 	float: right;
@@ -90,7 +90,7 @@ li{
 	width: 380px;
 	margin: 10px 10px 20px 10px;
 	padding: 10px 10px 10px 10px;
-	background-color: lavenderblush;
+	background-color: antiquewhite;
 	font-family: Arial, Helvetica, sans-serif;
 	line-height: 1.5;
 	float: left;
@@ -101,7 +101,7 @@ li{
 	width: 380px;
 	margin: 10px 10px 20px 10px;
 	padding: 10px 10px 10px 10px;
-	background-color: lavenderblush;
+	background-color: antiquewhite;
 	font-family: Arial, Helvetica, sans-serif;
 	line-height: 1.5;
 	float: left;
@@ -116,7 +116,7 @@ h4{
 	width: 1180px;
 	margin: 20px 10px 10px 10px;
 	padding: 5px 5px 5px 5px;
-	background-color: lavenderblush;
+	background-color: antiquewhite;
 	clear: both;
 	font-family: Arial, Helvetica, sans-serif;
 	color: red;
