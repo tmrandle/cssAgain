@@ -51,21 +51,92 @@ li{
   }
 
 #mainFood{
-	width: 750px ;
-	height: 150px;
+	width: 700px ;
+	height: 295px;
 	background-color: lavenderblush;
 	margin: 10px 20px 10px 20px;
 	padding: 10px 10px 10px 10px;
-	text-align: center;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	/*text-align: center;*/
   }
 
 
-#soupPic{
-	width: 380px;
-	height: 300px;
-	background-color: brown;
+#otherPages{
+	width: 410px;
+	height: 295px;
+	background-color:lavenderblush;
+	margin: 10px 20px 10px 20px;
+	padding: 10px 10px 10px 10px;
 	float: right;
-   }
+	}
+
+.otherPages2{
+	height: 65px;
+	width: 150px;
+	margin: 5px 5px 5px 5px;
+	padding: 15px 5px 5px 5px;
+	display: inline-block;
+	background-color: lightblue;
+	border: 5px groove red;
+	border-radius: 8px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.foods{
+	height: 375px;
+	width: 380px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: lavenderblush;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	float: left;
+}
+
+#additionalInfo{
+	height: 375px;
+	width: 380px;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	background-color: lavenderblush;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1.5;
+	float: left;
+}
+
+#download{
+	height: 120px;
+	width: 1180px;
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	background-color: lavenderblush;
+	clear: both;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: .8;
+	text-align: center;
+	text-color: darkred;
+}
+
+#menu2{
+	height: 65px;
+	width: 150px;
+	padding: 5px 10px 5px 10px;
+	background-color: lightblue;
+	border: medium double blue;
+	border-radius: 8px;
+}
+
+footer{
+	height: 65px;
+	width: 1180px;
+	margin: 5px 5px 5px 5px;
+	padding: 25px 10px 10px 10px;
+	background-color: #FAfad2;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
 
 
 
