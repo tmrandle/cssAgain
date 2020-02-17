@@ -51,7 +51,7 @@ li{
   }
 
 #mainFood{
-	width: 700px ;
+	width: 710px ;
 	height: 295px;
 	background-color: lavenderblush;
 	margin: 20px 10px 10px 20px;
@@ -63,7 +63,7 @@ li{
 
 
 #otherPages{
-	width: 420px;
+	width: 425px;
 	height: 295px;
 	background-color:lavenderblush;
 	margin: 20px 20px 10px 10px;
@@ -136,8 +136,8 @@ h4{
 
 footer{
 	height: 65px;
-	width: 1180px;
-	margin: 5px 5px 5px 5px;
+	width: 1200px;
+	margin: 5px 0px 5px 0px;
 	padding: 25px 10px 10px 10px;
 	background-color: #FAfad2;
 	text-align: center;
