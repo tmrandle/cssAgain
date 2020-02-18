@@ -61,6 +61,13 @@ li{
 	/*text-align: center;*/
   }
 
+#mainFood img{
+	width: 200;
+	height: 150;
+	margin: 5px 5px 5px 5px;
+	clear: left;
+	float: right;
+	}
 
 #otherPages{
 	width: 425px;
@@ -114,7 +121,7 @@ h4{
 #download{
 	height: 120px;
 	width: 1180px;
-	margin: 20px 10px 10px 10px;
+	margin: 20px 10px 10px 15px;
 	padding: 5px 5px 5px 5px;
 	background-color: antiquewhite;
 	clear: both;
@@ -132,6 +139,15 @@ h4{
 	background-color: lightblue;
 	border: medium double blue;
 	border-radius: 8px;
+}
+
+#bottom {
+	height: 70px;
+	width: 200px;
+	margin: 20px 10px 10px 540px;
+	padding: 6px 10px;
+	border: thin ridge green;
+	border-radius: 10px;
 }
 
 footer{
