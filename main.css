@@ -45,6 +45,8 @@ nav ul{
 
 nav li{
 	/*float: left;*/ /*hmm...didn't quite do what I thought*/
+	margin: 0px;
+	padding: 1px;
 	display: inline-block;
 	width: 120px;
 	text-align: center;
@@ -62,13 +64,14 @@ nav li{
   }
 
 #mainFood h2{
-	text-align:center;
+	text-align: center;
 }
 
 #mainFood img{
 	width: 200;
 	height: 150;
-	margin: 5px 5px 5px 5px;
+	margin: 5px 5px 5px 8px;
+	padding: 0px;
 	float: right;
 	}
 
