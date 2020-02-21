@@ -6,7 +6,7 @@
 	width:1200px;
 	height: 100%;
 	background-color: lightblue;
-	margin: 0 auto;
+	margin: 0px auto;
 	    }
 
 /*This is so that the padding and border added later dont't add to my overall box size, really important*/
